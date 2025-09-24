@@ -1,0 +1,8 @@
+import plotly.express as px
+import streamlit as st
+import pandas as pd
+import pycountry
+
+These Libraries are needed to run the code .
+
+----------->THANK YOU :)
